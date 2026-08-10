@@ -1,0 +1,51 @@
+# Obsidian workspace (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
+
+# Obsidian user-specific UI settings
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/starred.json
+.obsidian/bookmarks.json
+
+# Plugins data (user-specific settings)
+.obsidian/plugins/*/data.json
+
+# Trash
+.trash/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Office lock files (created when a .docx / .pptx / .xlsx is open)
+~$*
+
+# Temporary files
+*.tmp
+*~
+
+.idea
+
+# Claude Code — per-machine local settings (tool allowlists, etc.)
+.claude/settings.local.json
+
+# Claude Code worktrees (ephemeral isolated branches)
+.claude/worktrees/
+
+# pptxgenjs / 簡報產出用的臨時目錄
+.tmp_pptx/
+
+# node_modules
+node_modules/
+package-lock.json
+
+# M365 OAuth tokens（含 refresh token，不可 commit）
+System/scripts/.m365-tokens.json
+
+# Inbox — 已開放同步到 GitHub

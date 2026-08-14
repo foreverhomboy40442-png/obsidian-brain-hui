@@ -17,6 +17,7 @@ summary: 項目，有明確目標和截止日期的工作
 
 ## 成員
 
+- [[g0-ipas-ai-planner]] — G0 iPAS AI 應用規劃師初級（11/07）
 - [[example-project]] — 範例專案（可刪除）
 
 ## 項目結構

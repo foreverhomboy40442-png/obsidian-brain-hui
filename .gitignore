@@ -49,3 +49,13 @@ package-lock.json
 System/scripts/.m365-tokens.json
 
 # Inbox — 已開放同步到 GitHub
+
+# Chrome headless 產 PDF 的暫存（含瀏覽器設定與快取，不可 commit）
+assets/_pdf_tmp/
+
+# 官方學習指引／公告試題原檔與全文擷取（著作權，請自行下載）
+assets/g0-official/*.pdf
+assets/g0-official/exams/
+assets/g0-official/pdfjs/
+assets/g0-official/guide-s1.txt
+assets/g0-official/guide-s2.txt
